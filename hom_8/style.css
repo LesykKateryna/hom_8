@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(218, 217, 216);
+    margin :30px;
+}
+article {
+    text-align: center;
+}
+
+div {
+    width: 250px;
+    display:inline-block;
+    text-align: center;
+    padding: 20px;
+    margin: 5px;
+    background-color: rgb(206, 207, 207);
+    transition: 1s;
+}
+
+h1 {
+    color: rgb(20, 78, 78);
+    font-size: 35px;
+}
+
+ div:hover {
+     color: rgb(146, 7, 7);
+     background-color: rgb(233, 225, 155);
+ }
+
